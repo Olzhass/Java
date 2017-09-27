@@ -8,10 +8,6 @@ package showfile;
 
 import java.io.*;
 
-/**
- *
- * @author OOtumbay
- */
 public class ShowFile {
 
     /**
